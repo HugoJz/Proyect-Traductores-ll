@@ -1,0 +1,138 @@
+/* Quita los marcos */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Cuerpo de la página */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  /*background-color: rgba(134, 95, 131, 0.623);*/
+  /*background:radial-gradient(circle,lightblue, purple);*/
+  /*background:linear-gradient(rgb(166, 211, 116), rgb(143, 64, 112),rgb(42, 81, 117),rgb(101, 34, 207));*/
+  background: linear-gradient(#292c53,#5c4374,#9f5a96,#f17ebd,#f6a3d5);
+  background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
+  background-attachment: fixed;
+}
+
+/* Titulo */
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+  font-size: 60px;
+  /*background-color: orange;*/
+  text-align: center;
+  margin: 0px auto;
+  /*border: 1px solid black;*/
+  padding: 20px;
+  line-height: 100px;
+  color: rgb(32, 163, 108);
+}
+
+/* Texto ingresado */
+p{
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  font-weight: normal;
+  text-align: center;
+  height: 30px;
+  font-size: 25px;
+}
+
+/* Contenedor */
+#app {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 2%;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  border: 10px double;
+  border-radius: 50px;
+  border-color: rgb(28, 198, 228) rgb(38, 156, 160) rgb(47, 98, 107);
+}
+
+/*  Contador */
+#time {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  padding: 0.5px 0;
+}
+
+#time #value {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+/* Caja de Texto */
+input[type="text"] {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+  border: solid 1px #f8f3f3;
+  width: 300px;
+  border-radius: 60px;
+}
+
+/* Boton de Agregar Tarea */
+button,
+input[type="submit"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  border: black;
+  background-color: #0fe6b7a9;
+  color: rgb(14, 11, 11);
+  padding: 10px;
+  border-radius: 5px;
+  border-radius: 70px;
+}
+
+/* Impresión de tareas */
+#tasks {
+  font-family: Arial,'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+.task {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.task .completed {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Caja de Completa */
+.done {
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding: 5px;
+  background-color: #88ddd2;
+  border-radius: 70px;
+}
+
+/* Pie de Página */
+footer{
+  background: linear-gradient(to top,rgba(36, 135, 165, 0.37),rgba(69, 194, 211, 0.815));
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
