@@ -13,4 +13,7 @@ Se utilizo JavaScript para generar las funciones como serían: Arreglos, Eventos
 Se utilizo HTML junto a CSS para generar un estilo personalizado dentro de la presentación visual al usuario.
 
 ## Evidencia:
+Interfaz Principal:
+
+
 ![Presentación](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/26df5c79-a7f2-4b48-b977-5e60f00d2138)
