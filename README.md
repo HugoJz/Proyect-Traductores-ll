@@ -17,3 +17,8 @@ Interfaz Principal:
 
 
 ![Presentación](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/26df5c79-a7f2-4b48-b977-5e60f00d2138)
+
+Ingreso de Datos:
+
+
+![AddData](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/26a435d4-4258-4c9d-9459-d23b7b7e8dcf)
