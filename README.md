@@ -7,7 +7,7 @@ La técnica Pomodo es un método de gestión del tiempo que sugiere trabajar en 
 Su objetivo es establecer metas y mejorar la productividad.
 
 ## Lenguaje:
-Se utilizo JavaScript para generar las funciones como serían: Arreglos, Eventos, Objetos, como también el manejo de los tiempos.
+Se utilizo JavaScript por la manera en que se manejan los Arreglos, Eventos, Objetos, como también el manejo de los tiempos.
 
 ### Estetica:
 Se utilizo HTML junto a CSS para generar un estilo personalizado dentro de la presentación visual al usuario.
@@ -31,3 +31,14 @@ Ejecución de una tarea:
 Descanso al terminar una tarea:
 
 ![Break](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/86ea991e-d125-4cc8-8fee-208de7dcb79b)
+
+
+
+## Conclusión:
+Es la primera vez que trabajo con este lenguaje de programación, fue una buena experiencia por el echo de aprender cosas nuevas.
+Se fueron generando problemas mediante la creación de la aplicación, porque llegue a tener errores muy simples como podría ser
+la falta de un " ; ", como también no cerrar las llaves.
+Por otro lado, fue mucha investigación el como manejar una página web, identificar que etiquetas son para que cosas, una vez
+comprendiendo eso, la parte de la edición con CSS, fue más simple, porque fue cuestión de revisar las palabras recervadas 
+que utiliza, lo demás ya fue a prueba y error, agregar datos para saber que hacer cada cosa.
+Me quedo satisfecho al crear esta aplicación en la página web.
