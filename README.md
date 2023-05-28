@@ -22,3 +22,12 @@ Ingreso de Datos:
 
 
 ![AddData](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/26a435d4-4258-4c9d-9459-d23b7b7e8dcf)
+
+
+Ejecución de una tarea:
+
+![Ejecution](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/d9048408-3a72-4b33-85bd-4ed8eb128f6e)
+
+Descanso al terminar una tarea:
+
+![Break](https://github.com/HugoJz/Proyect-Traductores-ll/assets/84484618/86ea991e-d125-4cc8-8fee-208de7dcb79b)
